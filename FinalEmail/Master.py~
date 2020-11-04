@@ -8,8 +8,8 @@ class Master:
 
     def one(self, subject, message,send_to_email):
         try:
-            email = 'blessedmutengwa@gmail.com'
-            password = 'ngonidzashe'
+            email = 'mail@domain.com'
+            password = 'your password'
 
             msg = MIMEMultipart()
             msg['From'] = email
