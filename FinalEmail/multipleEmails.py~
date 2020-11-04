@@ -5,8 +5,8 @@ from email.mime.base import MIMEBase
 from email import encoders
 import os.path
 
-email = 'blessedmutengwa@gmail.com'
-password = 'ngonidzashe'
+email = 'mail@domain.com'
+password = 'your password'
 send_to_emails = ['samanthanyashamugari@gmail.com', 'blessedmutengwa@gmail.com'] # List of email addresses
 subject = 'Multiple messages at once'
 message = 'This is my message'
