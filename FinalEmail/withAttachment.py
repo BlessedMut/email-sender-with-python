@@ -7,8 +7,8 @@ import os.path
 
 def send_mail():
     try:
-	   email = 'email@gmail.com'
-        password = 'password'
+	email = 'mail@domain.com'
+        password = 'your password'
         send_to_email = 'email1@gmail.com'
         subject = 'Testing for file attachment'
         message = 'This is my message'
